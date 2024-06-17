@@ -158,3 +158,4 @@ function clearElements(element) {
 render();
 
 console.log("hi");
+console.log("another one")
