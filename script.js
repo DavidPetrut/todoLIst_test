@@ -156,3 +156,5 @@ function clearElements(element) {
 }
 
 render();
+
+console.log("hi");
